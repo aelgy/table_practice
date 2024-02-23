@@ -1,0 +1,23 @@
+#title {
+  font-weight: bold;
+  font-size: 36px;
+  color: #b6b963;
+  margin: 12px;
+}
+
+#head {
+  background-color: #b6b963;
+}
+
+tr:hover {
+  background-color: #f6f6dd;
+}
+
+th,
+td {
+  border-bottom: 1px solid #ddd;
+}
+
+/* #content {
+  background-color: #f6f6dd;
+} */
